@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in doing security Research:<br><br>- Azure Security<br><br>- Windows Vulnerability Research<br>- Cellular Hacking<br>- Drone Hacking<br>- Red Teaming/Defense Evasion<br>- Exploit Development<br><br>Basically, wants to hack everything.
+Interested in doing security Research:<br><br>- Azure Security<br>- Windows Vulnerability Research<br>- Cellular Hacking<br>- Drone Hacking<br>- Red Teaming/Defense Evasion<br>- Exploit Development<br><br>Basically, wants to hack everything.
 
 
 ## 🌐 Socials:
