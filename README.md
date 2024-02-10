@@ -1,13 +1,27 @@
-# 💫 About Me:
-Interested in doing security Research:<br><br>- Azure Security<br>- Windows Vulnerability Research<br>- Cellular Hacking<br>- Drone Hacking<br>- Red Teaming/Defense Evasion<br>- Exploit Development<br><br>Basically, wants to hack everything.
+<h2 align="left">Hi 👋! This is Zakariaa (Xenomorph)</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariaahamid) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lowlevel01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lowlevel01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lowlevel01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h5 align="left">Wants to do Security Research</h5>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+###
+
+<img align="right" height="150" src="https://images.wallpaperscraft.com/image/single/alien_eyes_black_and_white_289743_300x168.jpg"  />
+
+###
+
+<div align="left">
+  <img height="300" src="https://randommeme-five.vercel.app/"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://linkedin.com/in/zakariaahamid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
