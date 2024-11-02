@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! This is Zakariaa (Xenomorph)</h2>
+<h2 align="left">xD</h2>
 
 ### 
 
@@ -8,24 +8,11 @@
 
 <h3 align="left">
   
-   Passionate about Security Research
+   cybersecurity and mathematics
 </h3>
 
 
 
-
-
-
-
-###
-<br><br><br><br><br><br><br><br><br>
-
-
-<div align="center">
-  <h5 align="left">Random meme</h5>
-<br>
-  <img height="300" src="https://randommeme-five.vercel.app/"  />
-</div>
 
 ###
 
@@ -37,4 +24,3 @@
   </a>
 </div>
 
-###
