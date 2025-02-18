@@ -8,7 +8,7 @@
 
 <h3 align="left">
   
-   cybersecurity and mathematics
+   It's all Computer Science.
 </h3>
 
 
